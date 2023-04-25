@@ -1,0 +1,10 @@
+# 街机模拟器MAME版本对应表
+MAME2000        0.37b5  
+MAME2003        0.78  
+MAME2003-Plus 0.78-0.188  
+MAME2010        0.139  
+MAME2015        0.160  
+MAME2016        0.174  
+AdvanceMAME0.94 0.94  
+AdvanceMAME1.4  0.106   
+AdvanceMAME3   0.106  
